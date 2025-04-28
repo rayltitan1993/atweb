@@ -11,7 +11,7 @@
 //  );
 //};
 
-export default Header;
+//export default Header;
 
 import Link from 'next/link'
 import Image from 'next/image'
