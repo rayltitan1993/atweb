@@ -14,34 +14,34 @@ Aternas can provide our customers full-stack technology services, covering aspec
 
 **AI Technology**
 
-&#8226; AI Agent Construction  
-Enterprise LLM Solution  
-Enterprise AI Data Base  
-Local LLM Deployment  
-Private Knowledge Library
+&#8226;  AI Agent Construction  
+&#8226;  Enterprise LLM Solution  
+&#8226;  Enterprise AI Data Base  
+&#8226;  Local LLM Deployment  
+&#8226;  Private Knowledge Library
 
 **Enterprise Digitalization**
 
-Quality Inspection  
-Safety Supervision  
-Process Optimization  
-System Optimization  
-Private-Cloud Deployment
+&#8226;  Quality Inspection  
+&#8226;  Safety Supervision  
+&#8226;  Process Optimization  
+&#8226;  System Optimization  
+&#8226;  Private-Cloud Deployment
 
 
 **Software Development**
 
-APP (iOS/Android)  
-Web Service  
-System Integration  
-Test Service  
-System Maintenance
+&#8226;  APP (iOS/Android)  
+&#8226;  Web Service  
+&#8226;  System Integration  
+&#8226;  Test Service  
+&#8226;  System Maintenance
 
 
 **IT Consulting**
 
-Network Architecture  
-System Evaluation/Upgrade  
-Data Center Construction  
-Data Management Services  
-System Integration Solution
+&#8226;  Network Architecture  
+&#8226;  System Evaluation/Upgrade  
+&#8226;  Data Center Construction  
+&#8226;  Data Management Services  
+&#8226;  System Integration Solution
