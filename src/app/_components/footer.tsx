@@ -6,6 +6,14 @@ export function Footer() {
     <footer className="bg-neutral-50 border-t border-neutral-200 dark:bg-slate-800">
       <Container>
         <div className="py-28 flex flex-col lg:flex-row items-center">
+        <h2 className="mb-6">文字大小混合示例</h2>
+          <div className="mb-8 p-4 border rounded">
+            <h3 className="mb-3">使用不同标签</h3>
+              <p>
+                这是<span className="text-xl font-medium">普通大小</span>和
+                <span className="text-3xl font-medium">较大尺寸</span>的文字混合。
+              </p>
+          </div>
           <h3 className="text-4xl lg:text-[2.0rem] font-bold tracking-tighter leading-tight text-center lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
             Aternas - Professional Service Provider
           </h3> 
@@ -24,11 +32,6 @@ export function Footer() {
               80335 München, Germany 
             </a>
           </div>
-        </div>
-        <div className="py-28 flex flex-col lg:flex-row items-center">
-          <h3 className="text-4xl lg:text-[1.0rem] font-bold tracking-tighter leading-tight text-center lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
-            @All Rights Reserved. <br />
-          </h3> 
         </div>
       </Container>
     </footer>
