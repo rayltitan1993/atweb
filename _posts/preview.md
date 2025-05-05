@@ -1,12 +1,12 @@
 ---
 title: "German Tax Office AI Agent"
 excerpt: "A comprehensive tax management AI Agent specifically tailored for German tax offices, capable of automatically processing documents, generating reports, communicating with tax authorities, and completing tax filings. This system will significantly improve the efficiency of tax offices, reduce human errors, and ensure tax compliance."
-coverImage: "/assets/blog/preview/tax.jpg"
+coverImage: "/assets/blog/preview/Tax.jpg"
 date: "2025-04"
 author:
   name:
 ogImage:
-  url: "/assets/blog/preview/tax.jpg"
+  url: "/assets/blog/preview/Tax.jpg"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
