@@ -17,10 +17,10 @@ export function Footer() {
               Contact Us
             </a>
             <a
-              href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
+              href={``}
               className="mx-3 font-bold hover:underline"
             >
-              View on GitHub
+              Nyuphenburgerstr.12, Munich, Germany 
             </a>
           </div>
         </div>
