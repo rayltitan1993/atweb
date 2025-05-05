@@ -6,7 +6,6 @@ export function Footer() {
     <footer className="bg-neutral-50 border-t border-neutral-200 dark:bg-slate-800">
       <Container>
         <div className="py-28 flex flex-col lg:flex-row items-center">
-        <h2 className="mb-6">文字大小混合示例</h2>
           <div className="mb-8 p-4 border rounded">
             <h3 className="mb-3">使用不同标签</h3>
               <p>
