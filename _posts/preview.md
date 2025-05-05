@@ -1,13 +1,12 @@
 ---
-title: "Preview Mode for Static Generation"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
-coverImage: "/assets/blog/preview/cover.jpg"
+title: "German Tax Office AI Agent"
+excerpt: "A comprehensive tax management AI Agent specifically tailored for German tax offices, capable of automatically processing documents, generating reports, communicating with tax authorities, and completing tax filings. This system will significantly improve the efficiency of tax offices, reduce human errors, and ensure tax compliance."
+coverImage: "/assets/blog/preview/tax.jpg"
 date: "2020-03-16T05:35:07.322Z"
 author:
-  name: Joe Haddad
-  picture: "/assets/blog/authors/joe.jpeg"
+  name:
 ogImage:
-  url: "/assets/blog/preview/cover.jpg"
+  url: "/assets/blog/preview/tax.jpg"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
