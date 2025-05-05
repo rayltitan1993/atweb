@@ -12,37 +12,36 @@ At Aternas, we bridge the gap between technological innovation and business exce
 
 Aternas can provide our customers full-stack technology services, covering aspects from enterprise digital transformation, artificial intelligence solutions, and software development to IT infrastructure consulting. We specialize in enterprise-level services, including AI and large language model (LLM) business applications, as well as various system integration and optimization services.
 
-**Enterprise Digitalization**
-
-Quality Inspection
-Safety Supervision
-Process Optimization
-System Optimization
-Private-Cloud Deployment
-
-
 **AI Technology**
 
-AI Agent Construction
-Enterprise LLM Solution
-Enterprise AI Data Base
-Local LLM Deployment
+AI Agent Construction  
+Enterprise LLM Solution  
+Enterprise AI Data Base  
+Local LLM Deployment  
 Private Knowledge Library
+
+**Enterprise Digitalization**
+
+Quality Inspection  
+Safety Supervision  
+Process Optimization  
+System Optimization  
+Private-Cloud Deployment
 
 
 **Software Development**
 
-APP (iOS/Android)
-Web Service
-System Integration
-Test Service
+APP (iOS/Android)  
+Web Service  
+System Integration  
+Test Service  
 System Maintenance
 
 
 **IT Consulting**
 
-Network Architecture
-System Evaluation/Upgrade
-Data Center Construction
-Data Management Services
+Network Architecture  
+System Evaluation/Upgrade  
+Data Center Construction  
+Data Management Services  
 System Integration Solution
