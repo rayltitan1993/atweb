@@ -15,18 +15,26 @@ Aternas can provide our customers full-stack technology services, covering aspec
 **Enterprise Digitalization**
 
 Quality Inspection
-\Safety Supervision
-\Process Optimization
-\System Optimization
+
+Safety Supervision
+
+Process Optimization
+
+System Optimization
+
 Private-Cloud Deployment
 
 
 **AI Technology**
 
 AI Agent Construction
+
 Enterprise LLM Solution
+
 Enterprise AI Data Base
+
 Local LLM Deployment
+
 Private Knowledge Library
 
 
