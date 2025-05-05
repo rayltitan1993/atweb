@@ -7,11 +7,11 @@ import { type Author } from "@/interfaces/author";
 type Props = {
   title: string;
   coverImage: string;
-  date: string;
+  //date: string;
   author: Author;
 };
 
-export function PostHeader({ title, coverImage, date , author}: Props) {
+export function PostHeader({ title, coverImage , author}: Props) {
   return (
     <>
       <PostTitle>{title}</PostTitle>
@@ -24,9 +24,6 @@ export function PostHeader({ title, coverImage, date , author}: Props) {
       <div className="max-w-2xl mx-auto">
         <div className="block md:hidden mb-6">
           <Avatar name={author.name} />
-        </div>
-        <div className="mb-6 text-lg">
-          <DateFormatter dateString={date} />
         </div>
       </div>
     </>
