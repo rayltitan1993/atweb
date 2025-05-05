@@ -4,8 +4,8 @@ excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmo
 coverImage: "/assets/blog/dynamic-routing/tax.jpg"
 date: "2025-04-16T05:35:07.322Z"
 author:
-  name: JJ Kasper
-  picture: "/assets/blog/authors/jj.jpeg"
+  name:  
+  picture: " "
 ogImage:
   url: "/assets/blog/dynamic-routing/tax.jpg"
 ---
