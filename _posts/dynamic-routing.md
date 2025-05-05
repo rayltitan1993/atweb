@@ -14,7 +14,7 @@ Aternas can provide our customers full-stack technology services, covering aspec
 
 **AI Technology**
 
-AI Agent Construction  
+- AI Agent Construction  
 Enterprise LLM Solution  
 Enterprise AI Data Base  
 Local LLM Deployment  
