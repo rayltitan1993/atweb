@@ -20,6 +20,7 @@ export function Footer() {
               href={``}
               className="mx-3 font-bold hover:underline"
             >
+              Address:
               Nyuphenburgerstr.12, Munich, Germany 
             </a>
           </div>
