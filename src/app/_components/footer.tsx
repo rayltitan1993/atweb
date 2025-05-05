@@ -6,10 +6,9 @@ export function Footer() {
     <footer className="bg-neutral-50 border-t border-neutral-200 dark:bg-slate-800">
       <Container>
         <div className="py-28 flex flex-col lg:flex-row items-center">
-        <h2 className="mb-6">文字大小混合示例</h2>
           <h3 className="text-4xl lg:text-[2.0rem] font-bold tracking-tighter leading-tight text-center lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
             Aternas - Professional Service Provider <br />
-            <span className="text-xl font-medium">普通大小</span>
+            <span className="text-xl font-bold">@All Rights Reserved.</span>
           </h3> 
           <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
             <a
