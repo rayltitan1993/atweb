@@ -8,7 +8,7 @@ ogImage:
   url: "/assets/blog/preview/Tax.png"
 ---
 
-Aternas designed a professional AI Agent system for German tax offices. This system comprehensively addresses Germany's unique tax processes, achieving full automation from document processing to automatic communication with tax authorities.
+Apexella designed a professional AI Agent system for German tax offices. This system comprehensively addresses Germany's unique tax processes, achieving full automation from document processing to automatic communication with tax authorities.
 
 **Key highlights include:**
 
