@@ -22,7 +22,7 @@ export function Footer() {
               className="mx-3 font-bold hover:nounderline"
             >
               Tal 44 <br />
-              80331 München, Germany 
+              80331 München, Germany
             </a>
           </div>
         </div>
