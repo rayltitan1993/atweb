@@ -7,7 +7,7 @@ export function Footer() {
       <Container>
         <div className="py-28 flex flex-col lg:flex-row items-center">
           <h3 className="text-4xl lg:text-[2.0rem] font-bold tracking-tighter leading-tight text-center lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
-            Aternas - Professional Service Provider <br />
+            Apexella - Professional Tech Service Provider <br />
             <span className="text-xl font-bold">@ All Rights Reserved.</span>
           </h3> 
           <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
@@ -21,8 +21,8 @@ export function Footer() {
               href={``}
               className="mx-3 font-bold hover:nounderline"
             >
-              Nymphenburger Strasse 12 <br />
-              80335 München, Germany 
+              Tel 44 <br />
+              80331 München, Germany 
             </a>
           </div>
         </div>
