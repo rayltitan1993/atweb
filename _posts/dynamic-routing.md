@@ -1,6 +1,6 @@
 ---
-title: "Aternas: Transforming Enterprise Technology"
-excerpt: "Aternas can provide our customers full-stack technology services, covering aspects from enterprise digital transformation, artificial intelligence solutions, and software development to IT infrastructure consulting. We specialize in enterprise-level services, including AI and large language model (LLM) business applications, as well as various system integration and optimization services."
+title: "Apexella: Transforming Enterprise Technology"
+excerpt: "Apexella can provide our customers full-stack technology services, covering aspects from enterprise digital transformation, artificial intelligence solutions, and software development to IT infrastructure consulting. We specialize in enterprise-level services, including AI and large language model (LLM) business applications, as well as various system integration and optimization services."
 coverImage: "/assets/blog/dynamic-routing/AT.jpg"
 author:
   name:  
