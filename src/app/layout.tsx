@@ -10,8 +10,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: `Aternas Technology GmbH`,
-  description: `Professional Service Provider.`,
+  title: `Apexella GmbH`,
+  description: `Professional Tech Provider.`,
   openGraph: {
     images: [HOME_OG_IMAGE_URL],
   },
