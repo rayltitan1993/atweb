@@ -1,4 +1,5 @@
 import Footer from "@/app/_components/footer";
+import Header from "@/app/_components/header";
 import { CMS_NAME, HOME_OG_IMAGE_URL } from "@/lib/constants";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
@@ -10,8 +11,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: `Apexella GmbH`,
-  description: `Professional Service Provider.`,
+  title: `Apexella GmbH - Professional IT Solutions`,
+  description: `IT Consulting, Software Development, and Automation Systems. Your trusted technology partner in Munich, Germany.`,
   openGraph: {
     images: [HOME_OG_IMAGE_URL],
   },
@@ -61,6 +62,7 @@ export default function RootLayout({
         className={cn(inter.className, "dark:bg-slate-900 dark:text-slate-400")}
       >
         <ThemeSwitcher />
+        <Header />
         <div className="min-h-screen">{children}</div>
         <Footer />
       </body>
