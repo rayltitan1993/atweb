@@ -33,6 +33,7 @@ export function Footer() {
               <ul className="space-y-2 text-sm">
                 <li><a href="/impressum" className="hover:text-blue-600 dark:hover:text-blue-400">Legal Notice (Impressum)</a></li>
                 <li><a href="/privacy" className="hover:text-blue-600 dark:hover:text-blue-400">Privacy Policy</a></li>
+                <li><a href="/cookie-settings" className="hover:text-blue-600 dark:hover:text-blue-400">Cookie Settings</a></li>
               </ul>
             </div>
           </div>
@@ -49,6 +50,10 @@ export function Footer() {
                 <span className="text-gray-400">|</span>
                 <a href="/privacy" className="hover:text-blue-600 dark:hover:text-blue-400">
                   Privacy Policy
+                </a>
+                <span className="text-gray-400">|</span>
+                <a href="/cookie-settings" className="hover:text-blue-600 dark:hover:text-blue-400">
+                  Cookie Settings
                 </a>
                 <span className="text-gray-400">|</span>
                 <a href="/contact" className="hover:text-blue-600 dark:hover:text-blue-400">

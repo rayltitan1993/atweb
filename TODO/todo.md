@@ -1,46 +1,43 @@
-# Apexella GmbH – Corporate Website Content Specification
+# Task: Add a Cookie Settings Page to Our Website
 
-## 1. Homepage
-- Hero banner with company slogan and IT consulting focus
-- Short introduction: Company overview and mission statement
-- Key services overview (IT consulting, software development, automation systems, etc.)
-- "Contact Us" call-to-action button
+## Goal
+Create a new page named `cookie-settings` that allows users to manage their cookie preferences in compliance with GDPR and German legal requirements.
 
-## 2. Services
-- Detailed description of all services:
-  - IT consulting
-  - Software development
-  - Computer hardware import
-  - Automation systems integration and commissioning
-  - Software testing
+## Requirements
 
-## 3. Projects / References (optional)
-- Selected client projects or references (if any)
+1. **Page Location & Access**
+    - The page should be accessible via the website footer and/or the privacy policy page.
+    - The route should be `/cookie-settings` or similar.
 
-## 4. About Us
-- Company history and vision
-- Team/leadership introduction (optional)
-- Business scope statement
+2. **User Interface**
+    - Clear headline, e.g., “Cookie Settings”.
+    - Explain briefly why cookies are used (e.g., for functionality, analytics, or marketing).
+    - Show a list of cookie categories:
+        - Essential/Strictly necessary cookies (always enabled, non-optional)
+        - Analytics cookies (optional, user can enable/disable)
+        - Marketing cookies (optional, user can enable/disable)
+    - For each category, a brief description and a toggle switch for user consent.
 
-## 5. Contact
-- Contact form (name, email, message)
-- Company contact information
-- Google Maps widget (optional)
+3. **Consent Management**
+    - Users must be able to save their choices.
+    - Choices should be stored (e.g., in local storage or a cookie).
+    - If a user changes their settings, update the consent accordingly.
 
-## 6. Legal Notice (Impressum)
-- As provided above (mandatory for all German companies)
+4. **Legal Compliance**
+    - Add a short text stating that users can change cookie preferences at any time.
+    - Link to the privacy policy.
+    - Add the date of last update.
 
-## 7. Privacy Policy
-- As provided above (mandatory under GDPR)
+5. **Technical Implementation (for developers)**
+    - Use the technology stack of our site (e.g., React/Next.js, Tailwind CSS, etc.).
+    - Ensure accessibility (WCAG standards).
+    - The page should not set analytics/marketing cookies before the user consents.
 
-## 8. Footer (visible on every page)
-- Links to: Legal Notice | Privacy Policy | Contact
-- Social media links (if applicable)
+## Optional
+- Add a button to “Accept All” and “Reject All” cookies.
+- Show the current consent status.
+- Support English and German (i18n).
 
 ---
 
-**Special notes for developers:**
-- Ensure "Impressum" and "Privacy Policy" are accessible from every page.
-- If using cookies, analytics, or tracking tools, add cookie consent banner and update privacy policy accordingly.
-- Website must be mobile-friendly and fast-loading.
-- All content should be editable for future legal updates.
+**Please provide a clean, well-structured code implementation or wireframe for review.**

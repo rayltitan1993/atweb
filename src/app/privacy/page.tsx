@@ -27,6 +27,7 @@ The data is processed to ensure a smooth connection to the website, comfortable 
 
 #### b. Use of Cookies  
 Our website uses cookies only where technically necessary for the operation of the site. No tracking or marketing cookies are used unless explicitly consented by the user.
+You can manage your cookie preferences and consent settings on our [Cookie Settings](/cookie-settings) page.
 You can set your browser to refuse cookies. Please note that this may limit the functionality of our website.
 
 #### c. Contact Form and Email Communication  
