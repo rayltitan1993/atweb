@@ -27,6 +27,7 @@ The data is processed to ensure a smooth connection to the website, comfortable 
 
 #### b. Use of Cookies  
 Our website uses cookies only where technically necessary for the operation of the site. No tracking or marketing cookies are used unless explicitly consented by the user.
+You can set your browser to refuse cookies. Please note that this may limit the functionality of our website.
 
 #### c. Contact Form and Email Communication  
 If you contact us via a form on the website or by email, the information you provide will be stored for the purpose of processing the request and for follow-up questions. We will not share this data without your consent.
@@ -56,7 +57,8 @@ You have the right to:
 - Data portability (Art. 20 GDPR)
 - Lodge a complaint with a supervisory authority
 
-To exercise your rights, please contact us at info@apexella.tech.
+To exercise your rights, please contact us at info@apexella.tech. For your protection, we may require you to verify your identity before responding to your request.
+
 
 ### 6. Data Security
 

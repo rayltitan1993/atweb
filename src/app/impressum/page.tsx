@@ -12,6 +12,7 @@ Tal 44, 80331 Munich, Germany
 - VAT Identification Number (USt-IdNr.): DE455910697  
 - Managing Director (Geschäftsführer): Zijian Ding  
 - Email: info@apexella.tech  
+- Tele : +49 176 85630291
 - Website: www.apexella.tech
 
 **Business Scope:**  

@@ -94,12 +94,24 @@ export default function AboutPage() {
                 <h3 className="text-xl font-semibold mb-2">Zijian Ding</h3>
                 <p className="text-lg text-blue-600 dark:text-blue-400 mb-3">Managing Director (Geschäftsführer)</p>
                 <p className="text-gray-600 dark:text-gray-300">
-                  Leading Apexella GmbH with a vision for innovation and excellence in IT services. 
-                  With extensive experience in technology and business management, Zijian Ding drives 
-                  the company's strategic direction and ensures delivery of high-quality solutions 
-                  to our clients.
+                  Leading Apexella GmbH with a clear vision for technological innovation and service excellence.
+                   Drawing on extensive experience in both technology and business management, Zijian Ding sets the company’s 
+                   strategic course, cultivates client relationships, and drives business growth. Under his leadership, Apexella GmbH 
+                   consistently delivers high-quality, future-ready IT solutions tailored to client needs.
                 </p>
               </div>
+              <div className="bg-white dark:bg-gray-900 rounded-lg shadow-md p-6">
+                <h3 className="text-xl font-semibold mb-2">Zhuoxiao Meng</h3>
+                <p className="text-lg text-blue-600 dark:text-blue-400 mb-3">CTO</p>
+                <p className="text-gray-600 dark:text-gray-300">
+                  As CTO of Apexella GmbH, Zhuoxiao Meng leads our technology vision, product development, 
+                  and technical operations. With deep expertise in software engineering and system architecture, 
+                  Zhuoxiao ensures that our solutions are robust, scalable, and aligned with the latest industry standards. 
+                  He fosters a culture of innovation within the engineering team and is committed to driving continuous 
+                  technological advancement, enabling Apexella GmbH to deliver cutting-edge value to our clients.
+                </p>
+              </div>
+
             </section>
 
             <section className="mb-12">
